@@ -22,3 +22,8 @@
 |17|Deep Learning| 2022.08.27 | 박민호 |lec 17 (Autoencoder & Latent variable model), lec 18 VAE part2  Discussion 10| hw2 | 박민호 | | CS182 slides | [drive link](https://drive.google.com/file/d/1qiWp3LcCcyYzqWTJXa2CfmTJtIqSxMT4/view?usp=sharing) |
 |18|Deep Learning| 2022.08.31 | 허경훈 |lec 18 (VAE), lec 19 (GAN)  Discussion 11 | hw2 | 박민호 | | CS182 slides | [drive link](https://drive.google.com/file/d/1pFzE6PwkdO2gHkbNDQSTKtThyzlroJtp/view?usp=sharing) |
 |19|Deep Learning| | | EXAM | | | | | |
+
+# Presentation Material
+[Information Theory 1~3 (Entropy, Cross-Entropy, KL Divergence)](정보이론_김상우.pdf) \
+by Sangwoo Kim (김상우) \
+[![](https://github.com/lodikim.png?size=50)](https://github.com/lodikim)
